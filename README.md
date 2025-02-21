@@ -10,7 +10,7 @@ and problem-solving. I have an intermediate command of English (B2), from Mexico
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://avatars.githubusercontent.com/u/89614319?v=4)"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/89614319?v=4"  />
 
 ###
 
@@ -113,7 +113,7 @@ and problem-solving. I have an intermediate command of English (B2), from Mexico
 ###
 
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjR1bDR6bWFsc3M1ZWxjazljYTVpdTQ5MzlwZ2hqcDFhc3F2MTNlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif)"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjR1bDR6bWFsc3M1ZWxjazljYTVpdTQ5MzlwZ2hqcDFhc3F2MTNlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif"  />
 </div>
 
 ###
