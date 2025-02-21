@@ -119,8 +119,8 @@ and problem-solving. I have an intermediate command of English (B2), from Mexico
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mapita22091&count={8})
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=mapita22091&count={8}" alt="Spotify recently played"  />
+  
 </div>
 
 ###
