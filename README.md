@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Oscar Juarez and I'm a I am a final-year Artificial Intelligence Engineering student with strong knowledge in programming logic, problem analysis, 
+<h2 align="left">Hello there 👋! My name is Oscar Juarez and I'm a I am a final-year Artificial Intelligence Engineering student with strong knowledge in programming logic, problem analysis, 
 and problem-solving. I have an intermediate command of English (B2), from Mexico City</h2>
 
 ###
@@ -120,7 +120,7 @@ and problem-solving. I have an intermediate command of English (B2), from Mexico
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=mapita22091&count={8}" alt="Spotify recently played"  />
-  
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 </div>
 
 ###
