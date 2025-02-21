@@ -10,7 +10,7 @@ and problem-solving. I have an intermediate command of English (B2), from Mexico
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://avatars.githubusercontent.com/u/89614319?v=4)"  />
 
 ###
 
@@ -113,13 +113,14 @@ and problem-solving. I have an intermediate command of English (B2), from Mexico
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjR1bDR6bWFsc3M1ZWxjazljYTVpdTQ5MzlwZ2hqcDFhc3F2MTNlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif)"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mapita22091&count={8})
 </div>
 
 ###
