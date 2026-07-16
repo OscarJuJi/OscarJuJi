@@ -13,20 +13,6 @@ B.Eng. in Artificial Intelligence Engineering from the National Polytechnic Inst
   <img src="https://github-readme-stats.vercel.app/api?username=OscarJuJi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OscarJuJi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
 </div>
-🚀 Featured Projects
-
-
-Object Segmentation for Indoor 3D Model Editing (NeRF) — AI object-segmentation system for editing 3D models of interior spaces. Improved classification accuracy by 30% by integrating ML into a U-Net architecture, and achieved photorealistic 3D editing by combining NeRF spatial reconstruction with diffusion-based texture synthesis (Stable Diffusion).
-RAG ChatBot for Mexico's DOF — Retrieval-Augmented Generation system that summarizes and answers natural-language questions about Mexico's Diario Oficial de la Federación. Built with LangChain / LangServe for model retrieval and Pinecone for vector storage.
-Student Management System — Web platform for enrollment management and course assignment, with input validation, responsive UI, and hardened database security.
-
-
-More on my portfolio.
-
-💼 Experience
-
-Full-Stack Intern — Banco de México (Jun – Dec 2024)
-Boosted system performance by 30% by optimizing SQL queries and reducing algorithmic complexity in Java/JavaScript, and strengthened SQL database management through normalization, stored procedures, indexing, and role-based access control.
 
 💻 Languages
 
