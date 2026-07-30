@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Oscar Juárez 👋</h2>
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/89614319?v=4" alt="Oscar Juárez" />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/89614319?v=8" alt="Oscar Juárez" />
 Artificial Intelligence Engineer based in Mexico City 🇲🇽
 
 B.Eng. in Artificial Intelligence Engineering from the National Polytechnic Institute (IPN – ESCOM), graduated with a 9.5/10 GPA. I work across the full stack with a focus on computer vision, NeRF-based 3D reconstruction, and LLM / RAG systems. Intermediate English (B2).
@@ -99,5 +99,5 @@ B.Eng. in Artificial Intelligence Engineering from the National Polytechnic Inst
   <img src="https://raw.githubusercontent.com/OscarJuJi/OscarJuJi/output/snake.svg" alt="Snake animation" />
 </div>
 <div align="center">
-  <img src="[https://spotify-recently-played-readme.vercel.app/api?user=mapita22091](https://spotify-recently-played-readme.vercel.app/api?user=mapita22091)" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=mapita22091" alt="Spotify recently played" />
 </div>
