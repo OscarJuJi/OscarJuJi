@@ -99,5 +99,5 @@ B.Eng. in Artificial Intelligence Engineering from the National Polytechnic Inst
   <img src="https://raw.githubusercontent.com/OscarJuJi/OscarJuJi/output/snake.svg" alt="Snake animation" />
 </div>
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=mapita22091" alt="Spotify recently played" />
+  <img src="[https://spotify-recently-played-readme.vercel.app/api?user=mapita22091](https://spotify-recently-played-readme.vercel.app/api?user=mapita22091)" alt="Spotify recently played" />
 </div>
