@@ -4,12 +4,11 @@
 
 **Full Stack Developer & Artificial Intelligence Engineer** based in Mexico City 🇲🇽
 
-B.Sc. in Artificial Intelligence Engineering from the National Polytechnic Institute (IPN – ESCOM),
-graduated with a 9.5/10 GPA. Currently a **Data Engineer at Bluetab (an IBM Company)**, building ETL
+B.Sc. in Artificial Intelligence Engineering from the National Polytechnic Institute. Currently a **Data Engineer at Bluetab (an IBM Company)**, building ETL
 pipelines on BBVA's core data platform. I work across the full stack with a focus on computer vision,
 NeRF-based 3D reconstruction, and LLM / RAG systems. Intermediate English (B2).
 
-🔗 **Portfolio:** [oscarjuji.github.io](https://oscarjuji.github.io) &nbsp;·&nbsp; 📝 **Blog:** [IT-blog](https://oscarjuji.github.io/IT-blog)
+🔗 **Portfolio:** [oscarjuji.github.io](https://oscarjuji.github.io) &nbsp;·&nbsp; **Blog:** [IT-blog](https://oscarjuji.github.io/it-blog)
 
 <br clear="both">
 
