@@ -49,7 +49,7 @@ NeRF-based 3D reconstruction, and LLM / RAG systems. Intermediate English (B2).
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OscarJuJi&theme=dracula&hide_border=true&area=true" alt="Contribution activity graph" />
 </div>
 
-## 💻 Languages
+## Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
@@ -83,7 +83,7 @@ NeRF-based 3D reconstruction, and LLM / RAG systems. Intermediate English (B2).
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
 </div>
 
-## 🧠 AI / ML & Data
+## AI / ML & Data
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
@@ -110,7 +110,7 @@ NeRF-based 3D reconstruction, and LLM / RAG systems. Intermediate English (B2).
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logoColor=white" height="28" alt="Tableau" />
 </div>
 
-## 🌐 Backend & Frontend
+## Backend & Frontend
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
@@ -148,7 +148,7 @@ NeRF-based 3D reconstruction, and LLM / RAG systems. Intermediate English (B2).
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
 </div>
 
-## 🤝 Connect with me
+## Connect with me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/oscar-juji/" target="_blank">
@@ -162,9 +162,6 @@ NeRF-based 3D reconstruction, and LLM / RAG systems. Intermediate English (B2).
   </a>
   <a href="https://oscarjuji.github.io/IT-blog" target="_blank">
     <img src="https://img.shields.io/static/v1?message=IT%20Blog&logo=readme&label=&color=018EF5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="IT Blog" />
-  </a>
-  <a href="https://www.instagram.com/Oscar_JuJi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
 </div>
 
